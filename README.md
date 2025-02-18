@@ -1,7 +1,7 @@
 # Sales-Analysis-Using-PowerBi
 The objective of the Chocolate Factory Sales Data Analysis dashboard is to evaluate sales performance, identify high-revenue products, and track costs across regions and salespeople. It aims to optimize profitability by uncovering inefficiencies in shipment and production, enabling data-driven decision-making.
 
-![Live Dashboard Link]()
+![Live Dashboard Link](https://app.powerbi.com/groups/me/reports/6e4a17f0-1b65-4b7b-b752-20ffaf1576f5/0a6caa89da29e2532012?experience=power-bi) 
 
 ### Based on the Chocolate Factory Sales Data Analysis in Power BI with the key metrics you've provided (Salesperson, Revenue, Total Shipment, Costs, and Geography), here are some key findings, insights, and recommendations you can draw from the dashboard:
 ### Key Findings:
